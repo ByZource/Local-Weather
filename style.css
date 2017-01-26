@@ -1,0 +1,51 @@
+body {
+    background-color: bisque;
+    background-image: url(OGN2XJ0.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    margin: 5% 30%;
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+#content {
+    border: 1px solid black;
+    height: 50%;
+    width: 50%;
+    margin: 10% auto;
+    background-color: rgba(105, 105, 105,.7);
+    font-family: monospace;
+    font-size: 2em;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 90px;
+}
+
+h3 {
+    height: 10px;
+    padding-bottom: 30px;
+}
+
+p {
+    height: 10px;
+    padding-bottom: 30px;
+}
+
+#units {
+    background-color: #4CAF50;
+    border: 1px solid white;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#icon {
+    height: 60px;
+    width: 60px;
+}
